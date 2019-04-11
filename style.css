@@ -1,0 +1,50 @@
+h1 {
+    color: black; 
+    text-align: center;
+}
+
+h2{
+    align-content: left;
+}
+
+#p17 {
+    color: red;
+  }
+  #p18 {
+    color: blue;
+  }
+  #p19 {
+    color: green;
+  }
+#p22 {
+    font-size: 300%;
+}
+#p23 {
+    font-size: 160%;
+}
+#p26 {
+    text-align: center;
+}
+#p29 {
+    font: bold;
+}
+
+#p32 {
+    font-family: verdana;
+}
+
+#p35 {
+    color: orange;
+    font-size: 600%;
+    font: bold;
+}
+p.styledFont {
+
+    color: green;
+
+}
+
+p.styledImage {
+    border-block-end-color: chocolate;
+    font-style: italic;
+}
